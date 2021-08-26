@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    margin: 1em;
+}
+
+.search {
+    width: 20%;
+}
+
+input {
+    width: 20vw;
+    padding: 10px;
+}
+
+.feed {
+    display: flex;
+    flex-wrap: wrap;
+}
